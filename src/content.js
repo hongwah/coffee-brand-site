@@ -3,7 +3,7 @@
 export const brand = {
   name: '慢焰咖啡',
   nameEn: 'Slow Ember',
-  email: 'hello@example.com',
+  email: 'hongwah25@gmail.com',
 }
 
 export const nav = [

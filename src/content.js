@@ -174,4 +174,4 @@ export const contact = {
   cta: '写信给我们',
 }
 
-export const footerNote = '本站的品牌名称、产品和联系方式均为占位示例内容。'
+export const footerNote = '这是概念作品，品牌名称和产品均为虚构。'

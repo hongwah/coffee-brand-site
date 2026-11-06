@@ -5,7 +5,6 @@ import react from '@vitejs/plugin-react'
 const page = (path) => fileURLToPath(new URL(path, import.meta.url))
 
 export default defineConfig({
-  base: '/coffee-brand-site/',
   plugins: [react()],
   build: {
     rollupOptions: {

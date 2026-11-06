@@ -9,9 +9,9 @@ export const profile = {
   email: 'hongwah25@gmail.com',
   github: 'https://github.com/hongwah',
   resume: `${base}Resume-LaiHongWah.pdf`,
-  headline: 'I find what is broken in software, and fix it before release.',
+  headline: 'I build interfaces with React, and I know how software breaks.',
   summary:
-    'I work as a COBOL software developer, testing, debugging and refactoring applications. I started in technical support and on the service desk, so I have seen first-hand what software problems mean for the people using it.',
+    "I'm a software developer moving into front-end work with React. Right now I test, debug and refactor COBOL applications, so I check every change before it ships. Before that I worked in technical support and on the service desk, where I saw first-hand what a confusing screen or a broken feature means for the people using it.",
 }
 
 export const nav = [

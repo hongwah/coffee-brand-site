@@ -4,7 +4,7 @@ const base = import.meta.env.BASE_URL
 
 export const profile = {
   name: 'Lai Hong Wah',
-  role: 'Software Developer',
+  role: 'Software Developer (React)',
   location: 'Kuala Lumpur',
   email: 'hongwah25@gmail.com',
   github: 'https://github.com/hongwah',

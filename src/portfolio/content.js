@@ -15,8 +15,8 @@ export const profile = {
 }
 
 export const nav = [
-  { href: '#experience', label: 'Experience' },
   { href: '#project', label: 'Project' },
+  { href: '#experience', label: 'Experience' },
   { href: '#skills', label: 'Skills' },
   { href: '#contact', label: 'Contact' },
 ]
@@ -70,7 +70,7 @@ export const project = {
   note: 'Built with AI assistance.',
 }
 
-export const skills = ['C#', 'React', 'JavaScript', 'HTML / CSS', 'COBOL']
+export const skills = ['React', 'JavaScript', 'HTML / CSS', 'C#', 'COBOL']
 
 export const education = {
   degree: 'Bachelor Degree in Software System Development, Information Technology',

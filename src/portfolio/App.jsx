@@ -128,8 +128,8 @@ export default function App() {
       <Header />
       <main>
         <Hero />
-        <Experience />
         <Project />
+        <Experience />
         <Skills />
         <Contact />
       </main>
